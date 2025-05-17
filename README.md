@@ -30,16 +30,11 @@
 ---
 
 ## 🔝 Top Contributed Repositories & Stats Summary
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=upsaurav12&theme=dracula" alt="Profile Details" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=upsaurav12&theme=dracula&exclude=html,css,yaml" alt="Repos per Language" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=upsaurav12&theme=dracula" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=upsaurav12&theme=dracula" alt="Productive Time" />
-</p>
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=upsaurav12&theme=dracula)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=upsaurav12&theme=dracula&exclude=html,css,yaml)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=upsaurav12&theme=dracula)
+  <img src="https://github-contributor-stats.vercel.app/api?username=upsaurav12&limit=5&theme=dracula&combine_all_yearly_contributions=true" width="365" alt="Top Contributors" />
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=upsaurav12&theme=dracula)
 
 ---
 
