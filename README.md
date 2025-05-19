@@ -12,9 +12,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center" style="border: 2px solid #4c4f69; border-radius: 10px; padding: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=upsaurav12&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=upsaurav12&theme=catppuccin_mocha&hide_border=false" alt="GitHub Streak" />
+<p align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=upsaurav12&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img width="435" src="https://github-readme-streak-stats.herokuapp.com/?user=upsaurav12&theme=catppuccin_mocha&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
@@ -27,7 +27,7 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=upsaurav12&theme=dracula)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=upsaurav12&theme=dracula&exclude=html,css,yaml)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=upsaurav12&theme=dracula)
-  <img src="https://github-contributor-stats.vercel.app/api?username=upsaurav12&limit=5&theme=dracula&combine_all_yearly_contributions=true" style='border:1px solid black;' width="365" alt="Top Contributors" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=upsaurav12&limit=5&theme=dracula&combine_all_yearly_contributions=true&hide_border=true" width="365" alt="Top Contributors" />
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=upsaurav12&theme=dracula)
 
 
