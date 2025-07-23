@@ -3,6 +3,29 @@
 </p>
 
 
+### About Me
+- Hi, Myself Saurav Upadhyay who is computer science student from india.
+- I like to work on various technologies such as Cloud Native, Web technologies and Devops. 
+- I am active contributor on various projects under CNCF umbrella including project such as headlamp-ui , inspektor-gadgets, external-dns and many more. 
+
+### Work Experience
+
+| Company                                           | Role     | Duration                       |
+|------------------------------------------------------|------------|-------------------------------|
+| CLOUD NATIVE COMPUTING FOUNDATION   | LFX mentee | June 2025 - Present |
+
+---
+
+### Open Source Contributions
+
+| Repo                                             | Contributions                         |
+|------------------------------------------------------|-------------------------------------------|
+| Headlamp |  [Pull Requests](https://github.com/kubernetes-sigs/headlamp/pulls/upsaurav12) |
+| external-dns      |  [Pull Requests](https://github.com/kubernetes-sigs/external-dns/pulls?q=is%3Apr+author%3Aupsaurav12+is%3Aclosed) |
+| inspektor-gadgets      |  [Pull Requests](https://github.com/inspektor-gadget/inspektor-gadget/pulls/upsaurav12) |
+| CircuitVerse      |  [Pull Requests](https://github.com/CircuitVerse/CircuitVerse/pulls/upsaurav12) |
+
+
 ## 🛠️ Tech Stack
 
 <p align="center">
